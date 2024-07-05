@@ -1,0 +1,138 @@
+
+body{
+    background-color: bisque;
+}
+
+.container
+    {   
+        height: 500px ;
+        width: 400px;
+        color: black;
+        text-align: center;
+        border: 3px solid black;
+        margin-top: 150PX;
+        margin-left: 35%;
+        border-radius: 5%;
+        background-color: rgba(138, 43, 226,.2);
+       
+    }
+
+    .login {
+        margin-top: 20%;
+        margin-bottom: 25%;
+
+    }
+.input1 {
+
+    width: 200PX;
+    height: 30px;
+    margin-top: 20px ;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.input2 {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 20px ; 
+    text-align: center;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+.btn{
+    width: 200px; 
+    height: 25px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;   
+
+}
+
+.new{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 200px;
+    height: 100px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+
+.allinput {
+
+    height:35px;
+    border: 1px green solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(173, 255, 47,0.1);
+}
+
+.country {
+
+    width: 30px;
+    height: 15px;  
+}
+.file {
+
+    color: white;
+    background-color: black;
+    border: 2px darkgreen;
+}
+
+btns{
+
+    background-color: skyblue;
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
